@@ -1,25 +1,16 @@
-Welcome to Lumache's documentation!
+Welcome to Light-MALib's documentation!
 ===================================
+**Light-MALib** is a Pythonic framework for Population-Based Multi-Agent Reinforcement Learning (PB-MARL). As the name suggests, L-MALib is a
+simplified version of the `MALib <https://github.com/sjtu-marl/malib>`_ codebase which uses `Ray <https://www.ray.io/>`_ as a backend. L-MALib follows the design of an Actor-based RL systems which execute algorithms through message passing between a set of actors deployed on worker node.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-abcdefgh
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
-   test_tab
+   Introduction
+   Installation Guides
+   Quick Start
+   API Documentation
