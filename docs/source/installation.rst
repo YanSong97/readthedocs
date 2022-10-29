@@ -9,6 +9,7 @@ ubuntu 18.04 or above.
 We strongly recommend using `conda <https://docs.conda.io/en/latest/miniconda.html>`_ to manage your dependencies, and avoid version conflicts. Here we show the example of building python 3.7 based conda environment.
 
 .. code-block:: shell
+
     conda create -n l_malib python==3.7 -y
     conda activate l_malib
     pip install -e .

@@ -19,9 +19,6 @@ The key features of L-MALib include:
 * **Popular distributed computing RL framework support**: L-MALib support multiple distributed computing RL frameworks, including asynchronous  
 * **GRF-specific toolkits**: L-MALib was initially designed to benchmark Google Research Football multi-agent scenarios. It provides some GRF-specific content that makes GRF-related research easier.
 
-Before getting start, please make sure you've installed MALib by following the :ref:`installation`. :ref:`quick-start` gives some basic examples. As for the API documentation, users can refer to :ref:`api-doc`.
 
 Citing MALib
 ^^^^^^^^^^^^
-
-.. code-block:: bibtex
