@@ -9,8 +9,10 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents
 
-   Introduction
-   Installation Guides
-   Quick Start
-   API Documentation
+   intro
+   installation
+   quick_start
+   api_doc
