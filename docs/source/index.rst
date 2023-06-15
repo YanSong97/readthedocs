@@ -8,6 +8,7 @@ simplified version of the `MALib <https://github.com/sjtu-marl/malib>`_ codebase
 
 Contents
 ----------------
+Lumache has its documentation hosted on Read the Docs.
 
 
 .. toctree::
